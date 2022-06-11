@@ -1,0 +1,7 @@
+{
+"git": "Terminal/GitBash",
+"web": "API, Client-server model, HTTP requests/responces, DevTools",
+"theory": "documentation, bug-reports, methods of testing, SDLC, STLC",
+"mobile": "XCode, Android studio, guidelines",
+"databases": "SQL, Postgres"
+}
