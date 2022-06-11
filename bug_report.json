@@ -1,1 +1,8 @@
-
+{
+  "title": "Block 'Your result': button 'Learn more' is inactive",
+  "priority": "medium",
+  "enviroment": "Win 10, Chrome 99.0.4844.51",
+  "stepsToReproduce": "1. Open a non-existanse page 2. Click to 'Learn more' button",
+  "expectedResult": "redirect to another non-existanse page",
+  "actualResult": "nothing happend when click a button"
+}
